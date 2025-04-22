@@ -1,0 +1,64 @@
+- name: Zijian Zhang
+  photo: zijianzhang.jpg
+  email: zijian.zhang@my.cityu.edu.hk
+  number_educ: 0
+  info: CityU-JLU Joint-PhD, 2024, current position-Assistant Professor at JLU
+  website: https://zhangzj2114.github.io/
+- name: Ziru Liu
+  photo: ziruliu.jpg
+  email: ziruliu2-c@my.cityu.edu.hk
+  number_educ: 0
+  info: PhD-Data Science, 2024, current position-Huawei
+  education1: with Prof Dingxuan Zhou (USYD)
+  website: https://liuziru666.wixsite.com/homepage
+- name: Langming Liu
+  photo: langmingliu.jpg
+  email: langmiliu2-c@my.cityu.edu.hk
+  number_educ: 0
+  info: PhD-Data Science, 2024, current position-Alibaba
+  education1: with Prof Dingxuan Zhou (USYD)
+  website: https://ming429778.github.io/
+- name: Xiao Han
+  photo: xiaohan.jpg
+  email: xhan49-c@my.cityu.edu.hk
+  number_educ: 0
+  info: PhD-Data Science, 2024, current position-Postdoc at AML
+  education1: with Prof Dingxuan Zhou (USYD)
+  website: https://www.hahahenha.net/static/CV/index_ENG.html
+
+
+- name: Zhi Zheng
+  photo: zhizheng.jpg
+  info: PhD at USTC, Online RA in 2021-2022, with Prof Tong Xu, next position - postdoc in USTC
+  email:
+  number_educ: 0
+- name: Jialin Liu
+  photo: jialinliu.jpg
+  info: PhD at UCAS, Visiting Student in 2022-2023, with Prof Jun Li and Dr Guocheng Guo, next position - AP in China
+  email: jLliu@cnic.cn
+  number_educ: 0
+- name: Chunxu Zhang
+  photo: chunxuzhang.jpg
+  info: PhD at JLU, Visiting Student in 2022-2023, with Prof Bo Yang, next position - postdoc in HKUST
+  email: cxzhang19@mails.jlu.edu.cn
+  number_educ: 0
+- name: Zhenzhen Zhao
+  photo: zhenzhenzhao.jpg
+  info: PhD at ZJUT, Visiting Student in 2023-2024, with Prof Guojiang Shen
+  email: zhenzzhao4-c@my.cityu.edu.hk
+  number_educ: 0
+- name: Qihong Pan
+  photo: qihongpan.jpg
+  info: PhD at ZJUT, Visiting Student in 2023-2024, with Prof Guojiang Shen, staff in ZJUT   
+  email: TBD
+  number_educ: 0
+- name: Qingqing Yi
+  photo: qingqingyi.jpg
+  info: PhD at SWUFE, Visiting Student in 2023-2024
+  email: yiqingqing@smail.swufe.edu.cn
+  number_educ: 0
+- name: Xinhang Li
+  photo: xinhangli.jpg
+  info: PhD at Tsinghua, Online RA in 2022-2024, with Prof Chunxiao Xing and Prof Yong Zhang, next position - Alimama (T-star offer)
+  email: xh-li20@mails.tsinghua.edu.cn
+  number_educ: 0

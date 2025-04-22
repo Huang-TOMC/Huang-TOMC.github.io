@@ -1,0 +1,15 @@
+- name: Xiao Han
+  photo: xiaohan.jpg
+  email: xhan49-c@my.cityu.edu.hk
+  number_educ: 0
+  info: Postdoc
+  education1: with Prof Dingxuan Zhou (USYD)
+  website: https://hahahenha.github.io/
+
+- name: Xuemeng Song
+  photo: xuemengsong.jpg
+  email: sxmustc@gmail.com
+  number_educ: 0
+  info: Research Fellow
+  education1: 0
+  website: https://xuemengsong.github.io/
