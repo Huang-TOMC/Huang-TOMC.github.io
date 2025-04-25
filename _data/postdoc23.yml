@@ -1,10 +1,9 @@
-- name: Xiao Han
-  photo: xiaohan.jpg
-  email: xhan49-c@my.cityu.edu.hk
+- name: 蔡守乐
+  photo: shoulecai.jpg
+  email: shoulec@mail.ustc.edu.cn
   number_educ: 0
-  info: Postdoc
-  education1: with Prof Dingxuan Zhou (USYD)
-  website: https://hahahenha.github.io/
+  info: 博士后
+  education1: 0
 
 - name: Xuemeng Song
   photo: xuemengsong.jpg
@@ -12,4 +11,3 @@
   number_educ: 0
   info: Research Fellow
   education1: 0
-  website: https://xuemengsong.github.io/
