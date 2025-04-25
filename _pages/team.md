@@ -87,7 +87,7 @@ Jump to [Faculty](#faculty), [PostDoc Members](#research-fellow-and-postdoc-memb
 
 ***
 
-## Research Fellow and PostDoc Members
+## PostDoc Members
 
 {% assign number_printed = 0 %}
 {% for member in site.data.postdoc23 %}
@@ -252,9 +252,7 @@ Jump to [Faculty](#faculty), [PostDoc Members](#research-fellow-and-postdoc-memb
 
 ***
 
-## MS Students (CityU 1-year MS Program)
-
-### Enrollment Date: 2024
+## MS Students
 
 {% assign number_printed = 0 %}
 {% for member in site.data.ms24 %}
