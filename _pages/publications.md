@@ -70,11 +70,11 @@ permalink: /publications/
 &nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Nat. Commun. 2024, 15, 1480.</font>
 
 [16] Palladium-catalyzed hydrocarbonylative cross-coupling with two different alkenes.\
-&nbsp;&nbsp;&nbsp;&nbsp;Yi Chen, Jianing Wu, Yongzheng Ding*, and Hanmin Huang\
+&nbsp;&nbsp;&nbsp;&nbsp;Yi Chen, Jianing Wu, Yongzheng Ding, and Hanmin Huang\
 &nbsp;&nbsp;&nbsp;&nbsp;Org. Chem. Front. 2024, ASAP.
 
 [17] Iron-catalyzed C(sp3)–H phosphorylation via photoinduced LMCT Iron-catalyzed C(sp3)–H phosphorylation via photoinduced LMCT.\
-&nbsp;&nbsp;&nbsp;&nbsp;Hongchi Liu, Kaifang Wang, Sunfeng Ye, Qiming Zhu*, Hanmin Huang\
+&nbsp;&nbsp;&nbsp;&nbsp;Hongchi Liu, Kaifang Wang, Sunfeng Ye, Qiming Zhu, Hanmin Huang\
 &nbsp;&nbsp;&nbsp;&nbsp;Org. Chem. Front. 2024, 11, 2027-2032.
 
 ### Publications in 2023
