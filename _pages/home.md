@@ -18,8 +18,24 @@ permalink: /
 **我们正在招收优秀的硕士/博士研究生，以及博士后** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
 <div class="center">
-  <b style="font-size:24px">Huang-Complex</b>
-  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/huang_complex.png" style="width: 620px; margin-left: 16px; margin-right: 16px">
+  <b style="font-size:24px">Funding and Institutional Support</b>
+  <!-- <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/UGC.jpg" style="width: 177px; margin-left: 16px; margin-right: 16px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/itc.png" style="width: 149px; margin-left: 16px; margin-right: 16px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/env.png" style="width: 177px; margin-left: 16px; margin-right: 16px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/ant.png" style="width: 177px; margin-left: 16px; margin-right: 16px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/huawei2.jpg" style="width: 149px; margin-left: 16px; margin-right: 16px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/baidu1.png" style="width: 177px; margin-left: 16px; margin-right: 16px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/bytedance.png" style="width: 166px; margin-left: 16px; margin-right: 16px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/tencent.png" style="width: 166px; margin-left: 16px; margin-right: 16px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/kuaishou.png" style="width: 166px; margin-left: 16px; margin-right: 16px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/jd.png" style="width: 187px; margin-left: 16px; margin-right: 16px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/alibaba.png" style="width: 166px; margin-left: 16px; margin-right: 16px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/netease.png" style="width: 166px; margin-left: 14px; margin-right: 16px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/boss.png" style="width: 170px; margin-left: 16px; margin-right: 16px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/baichuan.png" style="width: 140px; margin-left: 30px; margin-right: 30px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/linkedin.png" style="width: 166px; margin-left: 16px; margin-right: 16px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/criteo.png" style="width: 166px; margin-left: 16px; margin-right: 16px">-->
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/all.png" style="width: 620px; margin-left: 16px; margin-right: 16px">
   
   
 </div>
