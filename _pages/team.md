@@ -1,7 +1,7 @@
 ---
-title: "AML Lab - Team"
+title: "Huang-TOMC Lab - Team"
 layout: gridlay
-excerpt: "AML Lab -- Team"
+excerpt: "Huang-TOMC Lab -- Team"
 sitemap: false
 permalink: /team/
 ---

@@ -1,25 +1,22 @@
 ---
-title: "AML Lab - Home"
+title: "Huang-TOMC Lab - Home"
 layout: homelay
-excerpt: "Applied Machine Learning Lab at City University of Hong Kong."
+excerpt: "Huang-TOMC Lab at University of Science and Technology of China."
 sitemap: false
 permalink: /
 ---
 
 <div class="center">
-  <b style="font-size:32px">Welcome to the AML Lab</b>
+  <b style="font-size:32px">Welcome to the Huang-TOMC Lab</b>
 </div>
 
-**Applied Machine Learning Lab (AML Lab)** is a dynamic research group at the [Department of Data Science in City University of Hong Kong](https://www.sdsc.cityu.edu.hk/). Our aim is to explore new methods and applications of Machine Learning and Data Mining, including 
-- Personalization, Recommender System, Online Advertising, Search Engine, and Information Retrieval
-- Urban Computing, Smart City, GeoAI, Spatio-Temporal Data Analysis, and Location-Based Social Networks
-- Large Language Model, Reinforcement Learning, AutoML, AGI, Graph Learning, Trustworthy AI, and Multimodal ML
-- AI + X: Education, Healthcare, Carbon Neutral, Social Computing, E-commerce, Finance, and Ecosystem
+**Huang-TOMC Lab**隶属于[中国科学技术大学化学与材料科学学院](https://scms.ustc.edu.cn/main.htm)。
+课题组的研究方向是围绕三元环钯络合物的可控形成与转化，发展新的催化合成反应：
+近邻氮原子与金属配位不但可以抑制β-H消除，而且可以活化相应的C-M键。鉴于同时含有氮原子和更高比例C(sp3)的有机化合物具有更高的成药性，开发同时能构建C(sp3)-C(sp3)键和引入杂原子的leading-complex及其导向的高效催化反应具有重要意义。
+课题组将围绕氮杂环钯络合物的可控形成与转化，结合不饱和烃的官能化，发展基元新反应、催化新策略和新机制，从而建立相应的催化新反应，为含氮化合物的制备提供高效的方法，进一步推动活性中间体化学和导向有机合成的金属有机化学的发展。
 
 
-
-
-**We are  looking for passionate new Postdocs, PhD students, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
+**我们正在招收优秀的硕士/博士研究生，以及博士后** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
 
 

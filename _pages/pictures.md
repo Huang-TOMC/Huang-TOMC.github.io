@@ -1,11 +1,11 @@
 ---
-title: "AML Lab - Pictures"
+title: "Huang-TOMC Lab - Pictures"
 layout: piclay
-excerpt: "AML Lab -- Pictures"
+excerpt: "Huang-TOMC Lab -- Pictures"
 permalink: /pictures/
 ---
 
-# AML Lab Photos
+# Huang-TOMC Lab Photos
 
 
 

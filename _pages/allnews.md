@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "AML Lab."
+excerpt: "Huang-TOMC Lab."
 sitemap: false
 permalink: /allnews.html
 ---
