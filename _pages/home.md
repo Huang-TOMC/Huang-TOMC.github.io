@@ -19,7 +19,7 @@ permalink: /
 
 <div class="center">
   <b style="font-size:24px">Huang-Complex</b>
-  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/homepic/huang_complex.png" style="width: 620px; margin-left: 16px; margin-right: 16px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/huang_complex.png" style="width: 620px; margin-left: 16px; margin-right: 16px">
   
   
 </div>
