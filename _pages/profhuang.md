@@ -6,54 +6,89 @@ sitemap: false
 permalink: /profhuang/
 ---
 
-<div style="display: flex; flex-direction: row; align-items: flex-start;">
+<!-- <div style="float: left; margin-right: 30px; width: 180px; text-align: left;">
 
-  <div style="width: 200px; margin-right: 40px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/prof_huang.jpg" class="img-responsive" style="width: 100%; border-radius: 10px;" />
 
+  <div style="font-size: 14px; margin-top: 10px;">
+    <strong>Work Address: </strong> University of Science and Technology of China, Hefei, Anhui<br/>
+    <strong>Telephone: </strong> 0551-63600752<br/>
+    <strong>Email: </strong> hanmin@ustc.edu.cn<br/>
+  </div>
+
+</div>
+
+<div style="float: right; width: calc(100% - 220px); margin-left: 20px;">
+
+  ### Academic Careers
+  - 2016-present,   Chair Professor, University of Science and Technology of China
+
+  - 2008-2016,   Professor, Lanzhou Institute of Chemical Physics, CAS
+
+  - 2004-2008,   Postdoctoral Fellow, Nagoya University, Japan
+
+  - 2003-2004,   Research Associate, Dalian Institute of Chemical Physics, CAS
+
+  ### Education
+  - 2003, Ph.D. Dalian Institute of Chemical Physics, CAS
+
+  - 2000, M.S. Huazhong University of Science and Technology
+
+  ### Awards
+  - 2019, National Science Fund for Distinguished Youth Scholars, China
+
+  - 2016, National Youth Science and Technology Innovation Leader, China
+
+  - 2015, Fellow of Royal Society of Chemistry
+
+  - 2013, Excellent 100-Talents Award Sponsored by Chinese Academy of Sciences
+
+  - 2013, The Homogenous Catalysis Award Sponsored by Chinese Chemistry Society
+
+  - 2012, National Science Fund for Outstanding Youth Scholars, China 
+
+</div> -->
+
+
+<div style="display: flex; align-items: flex-start;">
+
+  <div style="width: 180px; margin-right: 30px;">
     <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/prof_huang.jpg" class="img-responsive" style="width: 100%; border-radius: 10px;" />
-
-    <div style="font-size: 14px; margin-top: 10px; line-height: 1.6;">
-      <strong>Work Address:</strong><br/>
-      University of Science and Technology of China,<br/>
-      Hefei, Anhui<br/><br/>
-
-      <strong>Telephone:</strong><br/>
-      0551-63600752<br/><br/>
-
-      <strong>Email:</strong><br/>
-      <a href="mailto:hanmin@ustc.edu.cn">hanmin@ustc.edu.cn</a>
+    <div style="font-size: 14px; margin-top: 10px;">
+      <strong>Work Address: </strong> University of Science and Technology of China, Hefei, Anhui<br/>
+      <strong>Telephone: </strong> 0551-63600752<br/>
+      <strong>Email: </strong> hanmin@ustc.edu.cn<br/>
     </div>
-
   </div>
 
   <div style="flex: 1;">
-
+  
   ### Academic Careers
-  - 2016–present, Chair Professor, University of Science and Technology of China  
+  - 2016-present,   Chair Professor, University of Science and Technology of China
 
-  - 2008–2016, Professor, Lanzhou Institute of Chemical Physics, CAS  
+  - 2008-2016,   Professor, Lanzhou Institute of Chemical Physics, CAS
 
-  - 2004–2008, Postdoctoral Fellow, Nagoya University, Japan  
+  - 2004-2008,   Postdoctoral Fellow, Nagoya University, Japan
 
-  - 2003–2004, Research Associate, Dalian Institute of Chemical Physics, CAS  
+  - 2003-2004,   Research Associate, Dalian Institute of Chemical Physics, CAS
 
   ### Education
-  - 2003, Ph.D., Dalian Institute of Chemical Physics, CAS  
+  - 2003, Ph.D. Dalian Institute of Chemical Physics, CAS
 
-  - 2000, M.S., Huazhong University of Science and Technology  
+  - 2000, M.S. Huazhong University of Science and Technology
 
   ### Awards
-  - 2019, National Science Fund for Distinguished Youth Scholars, China  
+  - 2019, National Science Fund for Distinguished Youth Scholars, China
 
-  - 2016, National Youth Science and Technology Innovation Leader, China  
+  - 2016, National Youth Science and Technology Innovation Leader, China
 
-  - 2015, Fellow of Royal Society of Chemistry  
+  - 2015, Fellow of Royal Society of Chemistry
 
-  - 2013, Excellent 100-Talents Award, Chinese Academy of Sciences  
+  - 2013, Excellent 100-Talents Award Sponsored by Chinese Academy of Sciences
 
-  - 2013, Homogenous Catalysis Award, Chinese Chemistry Society  
+  - 2013, The Homogenous Catalysis Award Sponsored by Chinese Chemistry Society
 
-  - 2012, National Science Fund for Outstanding Youth Scholars, China  
+  - 2012, National Science Fund for Outstanding Youth Scholars, China 
 
   </div>
 
