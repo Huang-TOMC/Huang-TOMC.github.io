@@ -1,7 +1,9 @@
 ---
-layout: page
-title: Professor Introduction
-permalink: /prof/
+title: "Huang-TOMC Lab - Professor Huang"
+layout: textlay
+excerpt: "Huang-TOMC Lab -- Professor Huang"
+sitemap: false
+permalink: /professor/
 ---
 
 <style>

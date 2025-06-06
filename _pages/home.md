@@ -17,11 +17,3 @@ permalink: /
 
 **我们正在招收优秀的硕士/博士研究生，以及博士后** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!** -->
 
-<!-- <div class="center">
-  <b style="font-size:24px">Huang-Complex</b>
-  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/huang_complex.png" style="width: 620px; margin-left: 16px; margin-right: 16px">
-  
-  
-</div>
-
-
