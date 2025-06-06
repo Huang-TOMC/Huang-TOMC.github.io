@@ -6,7 +6,7 @@ sitemap: false
 permalink: /profhuang/
 ---
 
-<!-- <div style="float: left; margin-right: 30px; width: 180px; text-align: left;">
+<div style="float: left; margin-right: 30px; width: 180px; text-align: left;">
 
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/prof_huang.jpg" class="img-responsive" style="width: 100%; border-radius: 10px;" />
 
@@ -18,7 +18,7 @@ permalink: /profhuang/
 
 </div>
 
-<div style="float: right; width: calc(100% - 220px); margin-left: 20px;">
+<div style="float: right; width: calc(100% - 220px); margin-left: 20px; padding-top: 20px;">
 
   ### Academic Careers
   - 2016-present,   Chair Professor, University of Science and Technology of China
@@ -47,10 +47,10 @@ permalink: /profhuang/
 
   - 2012, National Science Fund for Outstanding Youth Scholars, China 
 
-</div> -->
+</div>
 
 
-<div style="display: flex; align-items: flex-start;">
+<!-- <div style="display: flex; align-items: flex-start;">
 
   <div style="width: 180px; margin-right: 30px;">
     <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/prof_huang.jpg" class="img-responsive" style="width: 100%; border-radius: 10px;" />
@@ -92,4 +92,4 @@ permalink: /profhuang/
 
   </div>
 
-</div>
+</div> -->
