@@ -3,7 +3,7 @@ title: "Huang-TOMC Lab - Professor Huang"
 layout: textlay
 excerpt: "Huang-TOMC Lab -- Professor Huang"
 sitemap: false
-permalink: /professor/
+permalink: /profhuang/
 ---
 
 <style>
