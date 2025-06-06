@@ -6,7 +6,7 @@ sitemap: false
 permalink: /profhuang/
 ---
 
-<div style="float: left; margin-right: 30px; width: 180px; text-align: left;">
+<!-- <div style="float: left; margin-right: 30px; width: 180px; text-align: left;">
 
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/prof_huang.jpg" class="img-responsive" style="width: 100%; border-radius: 10px;" />
 
@@ -47,13 +47,13 @@ permalink: /profhuang/
 
   - 2012, National Science Fund for Outstanding Youth Scholars, China 
 
-</div>
+</div> -->
 
 
-<!-- <div style="display: flex; align-items: flex-start;">
+<div style="display: flex; align-items: flex-start;">
 
   <div style="width: 180px; margin-right: 30px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/prof_huang.jpg" class="img-responsive" style="width: 100%; border-radius: 10px;" />
+    <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/prof_huang.jpg" class="img-responsive" style="width: 100%; border-radius: 10px;" /> -->
     <div style="font-size: 14px; margin-top: 10px;">
       <strong>Work Address: </strong> University of Science and Technology of China, Hefei, Anhui<br/>
       <strong>Telephone: </strong> 0551-63600752<br/>
@@ -92,4 +92,4 @@ permalink: /profhuang/
 
   </div>
 
-</div> -->
+</div>
