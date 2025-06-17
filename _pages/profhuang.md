@@ -7,20 +7,20 @@ permalink: /profhuang/
 ---
 
 <!-- 左右布局容器 -->
-<div style="width: 100%; overflow: hidden;">
+<!-- <div style="width: 100%; overflow: hidden;"> -->
 
   <!-- 左侧：图片 + 联系方式 -->
-  <div style="float: left; width: 180px; margin-right: 30px;">
+  <!-- <div style="float: left; width: 180px; margin-right: 30px;">
     <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/prof_huang.jpg" class="img-responsive" style="width: 100%; border-radius: 10px;" />
     <div style="font-size: 14px; margin-top: 10px;">
       <strong>Work Address: </strong> University of Science and Technology of China, Hefei, Anhui<br/>
       <strong>Telephone: </strong> 0551-63600752<br/>
       <strong>Email: </strong> hanmin@ustc.edu.cn<br/>
     </div>
-  </div>
+  </div> -->
 
   <!-- 右侧：academic career -->
-  <div style="float: left; width: calc(100% - 210px);">
+  <!-- <div style="float: left; width: calc(100% - 210px);"> -->
 
   ### Academic Careers  
   - 2016-present, Chair Professor, University of Science and Technology of China  
@@ -40,9 +40,9 @@ permalink: /profhuang/
   - 2013, The Homogenous Catalysis Award Sponsored by Chinese Chemistry Society  
   - 2012, National Science Fund for Outstanding Youth Scholars, China  
 
-  </div>
+  <!-- </div>
 
-</div>
+<!-- </div> --> 
 
 <!-- 左侧照片与信息 -->
 <!-- <div style="float: left; margin-right: 30px; width: 180px; text-align: left;"> -->
