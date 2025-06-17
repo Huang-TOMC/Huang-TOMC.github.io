@@ -7,6 +7,11 @@ permalink: /
 ---
 
 <div class="center">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/picpic/team.jpg" style="width: 620px; margin-left: 16px; margin-right: 16px">
+  
+</div>
+
+<div class="center">
   <b style="font-size:32px">欢迎来到Huang-TOMC Lab！</b>
 </div>
 
