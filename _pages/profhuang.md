@@ -1,6 +1,6 @@
 ---
 title: "Huang-TOMC Lab - Professor Huang"
-layout: default
+layout: profpage
 excerpt: "Huang-TOMC Lab -- Professor Huang"
 sitemap: false
 permalink: /profhuang/

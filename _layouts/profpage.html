@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- 如果你用 Bootstrap 或站点自定义 CSS，可以保留它们 -->
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+</head>
+<body>
+
+  <div style="max-width: 1000px; margin: 0 auto; padding: 30px; font-family: sans-serif; line-height: 1.6;">
+    {{ content }}
+  </div>
+
+</body>
+</html>
