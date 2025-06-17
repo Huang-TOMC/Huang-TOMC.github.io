@@ -1,18 +1,23 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>{{ page.title }}</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+---
+layout: default
+---
 
-  <!-- 如果你用 Bootstrap 或站点自定义 CSS，可以保留它们 -->
-  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
-</head>
-<body>
-
-  <div style="max-width: 1000px; margin: 0 auto; padding: 30px; font-family: sans-serif; line-height: 1.6;">
-    {{ content }}
+  <div id="profhuangphotoid" class="col-sm-4" >
+     <!-- <div style="float: left; width: 180px; margin-right: 30px;"> -->
+    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/prof_huang.jpg" class="img-responsive" style="width: 100%; border-radius: 10px;" />
+    <!-- <div style="font-size: 14px; margin-top: 10px;"> -->
+      <strong>Work Address: </strong> University of Science and Technology of China, Hefei, Anhui<br/>
+      <strong>Telephone: </strong> 0551-63600752<br/>
+      <strong>Email: </strong> hanmin@ustc.edu.cn<br/>
+    <!-- </div> -->
+  </div>
   </div>
 
-</body>
-</html>
+  <div id="profhuangid" class="col-sm-8">
+<!--	<figure style="display:inline">-->
+<!--	<img src="{{ site.url }}{{ site.baseurl }}/images/aml.png" width="10%">-->
+<!--	</figure>-->
+<!--        <h1 style="display:inline, text-align: center">Welcome to the AML Lab</h1>-->
+	{{ content }}
+  </div>
+
