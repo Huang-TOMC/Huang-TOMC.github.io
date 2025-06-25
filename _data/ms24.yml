@@ -1,12 +1,21 @@
 - name: 范橙橙
   photo: fanchengcheng.jpg
-  info: 研究方向:光催化和羰基化
+  # info: 研究方向:光催化和羰基化
   email: 1443451274@qq.com
+  number_educ: 0
+
+- name: 辜弸崴
+  photo: gupengwei.jpg
+  # info: 研究方向：金属电子梭催化、阴离子交换膜
   number_educ: 0
 
 - name: 李一飞
   photo: liyifei.jpg
   email: dlyxose@mail.ustc.edu.cn
+  number_educ: 0
+
+- name: 王绍休
+  photo: wangshaoxiu.jpg
   number_educ: 0
 
 - name: 杨喜云
@@ -15,7 +24,11 @@
   number_educ: 0
 
 - name: 叶孙锋
-  photo: sunfengye.jpg
-  info: 研究方向：金属电子梭催化、阴离子交换膜
+  photo: yesunfeng.jpg
+  # info: 研究方向：金属电子梭催化、阴离子交换膜
   email: sunfengye@mail.ustc.edu.cn
+  number_educ: 0
+
+- name: 尹思源
+  photo: yinsiyuan.jpg
   number_educ: 0

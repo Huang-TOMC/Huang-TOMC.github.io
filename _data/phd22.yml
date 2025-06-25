@@ -1,36 +1,36 @@
 - name: 侯晓雅
   photo: houxiaoya.jpg
-  info: 研究方向:金属电子梭催化
+  # info: 研究方向:金属电子梭催化
   email: hxy19054@mail.ustc.edu.cn
   number_educ: 0
 
 - name: 刘洪池
   photo: liuhongchi.jpg
-  info: 研究方向:光促进的羰基化反应
+  # info: 研究方向:光促进的羰基化反应
   email: lhc99@mail.ustc.edu.cn
   number_educ: 0
 
 - name: 杨国庆
   photo: yangguoqing.jpg
-  info: 研究方向:钯催化C-N键活化
+  # info: 研究方向:钯催化C-N键活化
   email: ygq171171@mail.ustc.edu.cn
   number_educ: 0
 
 - name: 张菁云
   photo: zhangjingyun.jpg
-  info: 研究方向:环钯配合物的设计与合成及其导向的催化反应研究
+  # info: 研究方向:环钯配合物的设计与合成及其导向的催化反应研究
   email: zjy999@mail.ustc.edu.cn
   number_educ: 0
 
 - name: 张天泽
   photo: zhangtianze.jpg
-  info: 研究方向:新型光催化胺烷基化反应的开发 
+  # info: 研究方向:新型光催化胺烷基化反应的开发 
   email: trayzel@mail.ustc.edu.cn
   number_educ: 0
 
 - name: 赵泽宇
   photo: zhaozeyu.jpg
-  info: 研究方向:利用三元环钯络合物形成和转化，发展新的不对称催化反应，实现小分子手性化合物的合成
+  # info: 研究方向:利用三元环钯络合物形成和转化，发展新的不对称催化反应，实现小分子手性化合物的合成
   email: zz98@mail.ustc.edu.cn
   number_educ: 0
 
@@ -40,11 +40,19 @@
   number_educ: 0
 
 - name: 熊贤尧
-  photo: xianyaoxiong.jpg
+  photo: xiongxianyao.jpg
   email: xianyaoxiong@mail.ustc.edu.cn
   number_educ: 0
 
 - name: 周旸焜
   photo: zhouyangkun.jpg
   email:  zhouyk@mail.ustc.edu.cn
+  number_educ: 0
+
+- name: 严家琪
+  photo: yanjiaqi.jpg
+  number_educ: 0
+
+- name: 张皓程
+  photo: zhanghaocheng.jpg
   number_educ: 0
