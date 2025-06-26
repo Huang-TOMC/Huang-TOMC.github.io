@@ -8,6 +8,11 @@ permalink: /publications/
 
 # Publications
 
+### Publications in 2025
+[1] [Adaptive dynamic kinetic resolution enables alteration of chiral induction with ring sizes.](https://doi.org/10.1038/s41557-025-01850-8)\
+&nbsp;&nbsp;&nbsp;&nbsp;Bangkui Yu, Yao Huang, Haocheng Zhang, Hanmin Huang\
+&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Nature Chemistry, 2025</font>
+
 ### Publications in 2024
 [1] Dynamic amine-sorting enables multiselective construction of unsymmetrical chiral diamines.\
 &nbsp;&nbsp;&nbsp;&nbsp;Shoule Cai, Zeyu Zhao, Guoqing Yang, Hanmin Huang\
