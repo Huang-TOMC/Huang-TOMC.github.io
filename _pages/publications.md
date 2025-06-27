@@ -85,7 +85,7 @@ permalink: /publications/
 ### Publications in 2023
 [1] Double alkyl-alkyl bond construction across alkenes enabled by nickel electron-shuttle catalysis.\
 &nbsp;&nbsp;&nbsp;&nbsp;Changqin Rao, Tianze Zhang, Hongchi Liu, and Hanmin Huang\
-&nbsp;&nbsp;&nbsp;&nbsp;font color=red>Nat. Catalysis. 2023, 6, 847-857.(highlighted by synfacts 2023, 19(12), 1208).</font>
+&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Nat. Catalysis. 2023, 6, 847-857.(highlighted by synfacts 2023, 19(12), 1208).</font>
 
 [2] Carbonylative Formal Cycloaddition between Alkylarenes and Aldimines Enabled by Palladium-Catalyzed Double C–H Bond Activation.\
 &nbsp;&nbsp;&nbsp;&nbsp;Yongzheng Ding, Jianing Wu, and Hanmin Huang\
